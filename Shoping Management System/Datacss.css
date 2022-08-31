@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(203, 203, 203);
+}
+.box{
+      height: 600px;
+      width:80%;
+      background-color:aliceblue;
+      margin:40px auto;
+}
+.box1{
+    height: 100px;
+    width:100%;
+    background-color:deeppink;
+    }
+#logo{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:black;
+    padding: 30px 20px;
+}
+.navbaar{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    background-color: black;
+    line-height: 50px;
+}
+.navbaar li{
+    display:inline-block;
+}
+.navbaar li a{
+    text-decoration:none;
+    color: aliceblue;
+    display: inline-block;
+    padding: 5px 0px;
+    text-align:center;
+    width: 150px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.navbaar li a:hover{
+    background-color:rgb(249, 62, 162);
+    color:black;
+}
+#frame{
+    border:none;
+}
